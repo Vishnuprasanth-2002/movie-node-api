@@ -14,3 +14,5 @@ $ npm start
 - Test with postman.
 
 _Happy hacking!_
+
+-using express,morgan,cors
