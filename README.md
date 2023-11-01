@@ -4,7 +4,7 @@
 
 ```
 $ git clone https://github.com/ashish-mw/dummy-node-api
-$ cd dummy-node-api
+$ cd Movie-node-api
 $ nvm use
 $ npm i
 $ npm start
